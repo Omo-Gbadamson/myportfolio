@@ -64,7 +64,7 @@ const Page = () =>{
                 </BioSection>
                 <BioSection>
                     <BioYear>2019</BioYear>
-                    Obeys the Clarion call to serve his fatherland with a year long full of Dedication, Selflessness, Hardwork, Collaboration, Agility and Loyalty at such he was elected as the president of his CDS group.
+                    Obeyed the Clarion call to serve his fatherland with a year long full of Dedication, Selflessness, Hardwork, Collaboration, Agility and Loyalty at such he was elected as the president of his CDS group.
                 </BioSection>
                 <BioSection>
                     <BioYear>2020</BioYear>
