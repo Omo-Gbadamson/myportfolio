@@ -1,4 +1,4 @@
-import { position } from "@chakra-ui/react";
+// import { position } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 import Head from 'next/head'
 import {GridItemStyle} from '../grid-item'
