@@ -9,9 +9,9 @@ export const Title = ({children})=>(
         </NextLink>
     
     <span>
-        &nbsp;
+        `&nbsp`;
         <ChevronRightIcon/>
-        &nbsp;
+        `&nbsp`;
     </span>
         <Heading display="inline-block" as ="h3" fontSize={20} mb={4}>
             {children}
