@@ -136,7 +136,7 @@ const Page = () =>{
                     title="HouseBen"
                     thumbnail={HouseBen}
                     >
-                        My Youtube Channel
+                        Real Estate App
                     </GridItem>
                 </SimpleGrid>
             </Section>
